@@ -1,1 +1,2 @@
 # Titanic-Survival-Prediction-Using-Supervised-Learning-Models
+This project explores the classic Titanic dataset to predict passenger survival using various supervised learning models. The dataset is preprocessed to handle missing values, encode categorical variables, and scale numerical features. Three models — Logistic Regression, Random Forest, and Support Vector Machine (SVM) — are trained and evaluated to determine which provides the best prediction accuracy.
